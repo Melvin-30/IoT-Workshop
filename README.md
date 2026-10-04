@@ -1,3 +1,6 @@
+The issue is nested code fences again. I'll use **4 tildes for the outer Markdown container** and **3 tildes inside**, so you can copy the whole thing directly into a `.md` file.
+
+
 # IoT Workshop
 
 ## Overview
